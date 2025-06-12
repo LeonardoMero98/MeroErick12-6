@@ -1,4 +1,6 @@
-public class Circulo extends Figura{
+package figurasGeometricas;
+
+public class Circulo extends Figura {
     public Circulo(double valor1){
         super(valor1);
     }

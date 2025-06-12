@@ -1,3 +1,5 @@
+package figurasGeometricas;
+
 import java.awt.*;
 
 public interface figuraDibujable {

@@ -1,6 +1,8 @@
+package figurasGeometricas;
+
 import java.awt.*;
 
-public class CirculoDibujable extends Circulo implements figuraDibujable{
+public class CirculoDibujable extends Circulo implements figuraDibujable {
 
     private int x;
     private int y;
